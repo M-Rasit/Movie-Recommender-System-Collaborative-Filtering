@@ -37,10 +37,14 @@ In this technique I used pivot table DataFrame and used them as input for csr_ma
 
   :movie_camera: Movies Recommended for Star Wars
   
-![]()
+![](https://github.com/M-Rasit/Movie-Recommender-System-Collaborative-Filtering/blob/master/images/Nearest%20Neighbor%20Star%20Wars.png)
 
   :movie_camera: Movies Recommended for Air Force One
   
-![](https://github.com/M-Rasit/Movie-Recommender-System-Collaborative-Filtering/blob/master/images/Star%20Wars%20-%20Nearest%20Neighbor.png)
+![](https://github.com/M-Rasit/Movie-Recommender-System-Collaborative-Filtering/blob/master/images/Air%20Force%20One%20-%20Nearest%20Neighbor.png)
 
+### Conclusion
 
+In this dataset, using Corrwith gets more accurate results based on genre. Correlation of users and filtering rating count are the advantages of Corrwith technique.
+
+Thank you.:tulip:
